@@ -20,19 +20,19 @@ public class CalcJava {
 
         switch (opcao) {
             case 1:
-                // code block
+                
                 break;
             case 2:
-                // code block
+
                 break;
             case 3:
-                // code block
+
                 break;
             case 4:
-                // code block
+
                 break;
             default:
-                // code block
+
         }
 
 
