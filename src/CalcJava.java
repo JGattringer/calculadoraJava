@@ -42,6 +42,9 @@ public class CalcJava {
     public static int adicionar(int a, int b) {
         return a + b;
     }
+    public static int subtrair(int a, int b) {
+        return a - b;
+    }
 
 }
 
