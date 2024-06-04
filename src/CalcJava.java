@@ -48,6 +48,14 @@ public class CalcJava {
     public static int multiplicar(int a, int b) {
         return a * b;
     }
+    public static double dividir(int a, int b) {
+        if (b != 0) {
+            return (double) a / b;
+        } else {
+            System.out.println("Erro: divisão por zero.");
+            return Double.NaN;
+        }
+    }
 
 }
 
